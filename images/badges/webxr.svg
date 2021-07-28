@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 183 205">
+  <path fill="url(#webxr-logo__paint0_linear)" fill-rule="evenodd" d="M40.877 194.584C37.713 187.04 1.093 99.021 1.093 99.021s-8.55-20.306 22.177-34.735C53.997 49.858 91.404 31.69 91.404 31.69v137.934S69.26 191.58 60.502 200.382c-7.959 8-16.449 1.778-19.625-5.798z" clip-rule="evenodd"/>
+  <path fill="url(#webxr-logo__paint1_linear)" fill-rule="evenodd" d="M141.931 194.584c3.164-7.544 39.784-95.563 39.784-95.563s8.55-20.306-22.177-34.735C128.811 49.858 91.404 31.69 91.404 31.69v137.934s22.144 21.957 30.902 30.759c7.959 8 16.449 1.778 19.625-5.798z" clip-rule="evenodd"/>
+  <path fill="url(#webxr-logo__paint2_linear)" fill-rule="evenodd" d="M91.404 31.69L27.901.882S14.37-5.08 17.76 13.988l8.677 48.81 64.966-31.109z" clip-rule="evenodd"/>
+  <path fill="url(#webxr-logo__paint3_linear)" fill-rule="evenodd" d="M91.404 31.69L154.908.882s13.529-5.963 10.139 13.105l-8.677 48.81-64.966-31.109z" clip-rule="evenodd"/>
+  <defs>
+    <linearGradient id="webxr-logo__paint0_linear" x1="91.424" x2="45.724" y1="-10.546" y2="241.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="red"/>
+      <stop offset="1" stop-color="#900"/>
+    </linearGradient>
+    <linearGradient id="webxr-logo__paint1_linear" x1="130.195" x2="23.657" y1="203.94" y2="-.178" gradientUnits="userSpaceOnUse">
+      <stop stop-color="red"/>
+      <stop offset="1" stop-color="#900"/>
+    </linearGradient>
+    <linearGradient id="webxr-logo__paint2_linear" x1="17.188" x2="145.125" y1="-13.338" y2="206.594" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#900" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#FE0000" stop-opacity=".65"/>
+    </linearGradient>
+    <linearGradient id="webxr-logo__paint3_linear" x1="91.424" x2="45.724" y1="-10.546" y2="241.677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="red" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#900" stop-opacity=".65"/>
+    </linearGradient>
+  </defs>
+</svg>
