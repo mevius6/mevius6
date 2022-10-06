@@ -67,13 +67,13 @@
 
 </details>
 
-<br>
+<!-- <br>
 
 <p align="center">
   <a href="https://t.me/zen_hoover" alt="Message in Telegram" title="Drop me a __">
     <img src="./images/telegram.svg" width="44" height="44">
   </a>
-</p>
+</p> -->
 
 [EN]: ./README.md
 [RU]: ./README.ru.md
