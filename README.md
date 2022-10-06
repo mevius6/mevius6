@@ -3,7 +3,7 @@
 [![Image of text that says 'Des and Dev'. Uses font Black Mamba by Swiss Typefaces.](./images/banner.svg 'Des and Dev')](https://github.com/mevius6)
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/mevius6/mevius6)](https://github.com/mevius6) -->
-![](https://img.shields.io/github/watchers/mevius6/mevius6?label=👁&color=000)
+<!-- ![](https://img.shields.io/github/watchers/mevius6/mevius6?label=👁&color=000) -->
 
 <!--[![Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=mevius6&title_color=24292e&text_color=24292e&border_color=eeff89&bg_color=135,eeff89,eeff8975,eeff8925&locale=en&border_radius=8&layout=compact&card_width=320&langs_count=10&custom_title=Tech+Stack)](https://github.com/anuraghazra/github-readme-stats)-->
 
