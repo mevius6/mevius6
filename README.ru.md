@@ -45,13 +45,13 @@
     <img alt="webxr" title="WebXR" src="./images/badges/webxr.svg" width="24" height="24"></a> -->
 </p>
 
-<br>
+<!-- <br>
 
 <p align="center">
   <a href="https://t.me/zen_hoover" alt="Сообщение в Telegram" title="Сообщение в Telegram">
     <img src="./images/telegram.svg" width="44" height="44">
   </a>
-</p>
+</p> -->
 
 [EN]: ./README.md
 [RU]: ./README.ru.md
